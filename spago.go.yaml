@@ -21,6 +21,8 @@ package:
       - prelude
       - refs
       - tailrec
+      - transformers
+      - node-process
 
 workspace:
   packageSet:
